@@ -1,16 +1,14 @@
-## Hi there 👋
+      Hezron Kemboi/Hezron Kemboi/README.MD
+Hezron Kemboi | Python Developer | Automation & AI Tools
+Building practical tools that solve actual problems. Based in Nairobi, Kenya.
+          What I Build
+. Data pipelines and automation scripts in python
+. Rest APIS with FASTAPI and Flasks
+. Machine learning tools for fitness and performance tracking
+. Browser-based tools with JavaScript and Fetch API
+           Current Projects
+. SMP-tracker: Daily performance tracker with ML-powered coaching
+. API-dashboard: Multi-endpoint data dashboard with panda's report
+. Browser-coach: Client-side AI coaching tool in JavaScript stack
 
-<!--
-**gully-the-don/gully-the-don** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     Python. Fast API .Pandas .Scikit-learn .JavaScript  .Git . Supabase
